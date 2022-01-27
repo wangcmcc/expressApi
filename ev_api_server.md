@@ -1,7 +1,4 @@
-## Headline
-
-> 大事件后台 API 项目，API 接口文档请参考 https://www.showdoc.cc/escook?page_id=3707158761215217
-
+## 接口开发文档
 ## 1. 初始化
 
 ### 1.1 创建项目
